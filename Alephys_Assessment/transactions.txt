@@ -1,0 +1,2 @@
+income,business,25000.0,2025-04-23
+expense,food,10000.0,2025-04-22
